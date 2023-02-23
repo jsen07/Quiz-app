@@ -1,4 +1,4 @@
-# Quiz-ap
+# Quiz-app
 
 In this project we were given the task to create a Quiz application.  The quiz application would have a menu where when the user clicks 'start' a quiz is displayed to the user, the quiz requires the user to select a multiple choice question whilst a countdown timer is running, when the countdown timer reaches 0 th3e quiz will end, if the player selects an incorrect answer then they will have their points deducted along with a time penality of minus seconds, however if the player sleects the right answer they will gain points. After the user has completed the quiz they are able to save their score into a localstorage and view previous scores to see where they rank in the highscore leaderboard. 
 
