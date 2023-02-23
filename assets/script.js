@@ -105,6 +105,7 @@ function checkAnswer(e) {
         setQuestion();
     }
     if (currentQuestion === questions.length -1){
+        clearInterval(gameTimer);
         saveScore();
     }
     playerScore.innerText = score;
