@@ -4,7 +4,7 @@
     font-family: 'Barlow', sans-serif;
 }
 
-
+/* Styling for main quiz elements */
 .menu {
     margin: auto;
     width: 400px;
@@ -168,7 +168,7 @@ li {
     width: 200px;
     height: 50px;
 }
-
+/* styling for mobile devices */
 @media only screen and (max-width: 769px ) {
 
 
